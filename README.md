@@ -21,6 +21,12 @@ cd ZptLight
 
 然后你就可以开始使用本模板了！
 
+## 示例
+
+需要示例？请查看 <https://zhoujiatai.github.io/ZptLight/>。
+
+周嘉泰的个人主页（<https://zhoujiatai.github.io/>）是一个使用本模板的例子。
+
 ## 贡献
 
 请查看 [CONTRIBUTING.md](https://github.com/ZhouJiatai/ZptLight/blob/master/CONTRIBUTING.md)。
