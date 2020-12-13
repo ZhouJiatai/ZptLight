@@ -23,7 +23,7 @@ cd ZptLight
 
 ## 贡献
 
-请查看 [CONTRIBUTING.md](#)。
+请查看 [CONTRIBUTING.md](https://github.com/ZhouJiatai/ZptLight/blob/master/CONTRIBUTING.md)。
 
 ## 版本
 
@@ -35,4 +35,4 @@ cd ZptLight
 
 ## 许可证
 
-此项目根据 [BSD 4-Clause License](https://choosealicense.com/licenses/bsd-4-clause/)进行授权。
+此项目根据 [BSD 4-Clause License](https://github.com/ZhouJiatai/ZptLight/blob/master/LICENSE.txt)进行授权。
