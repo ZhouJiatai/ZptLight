@@ -27,6 +27,11 @@ nav{
     width: 1024px;
 }
 
+a{
+    color: darkblue;
+    text-decoration-line: none;
+}
+
 footer{
     text-align: center;
     font-size: 90%;
