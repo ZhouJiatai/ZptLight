@@ -25,7 +25,7 @@ cd ZptLight
 
 需要示例？请查看 <https://zhoujiatai.github.io/ZptLight/>。
 
-周嘉泰的个人主页（<https://zhoujiatai.github.io/>）是一个使用本模板的例子。
+Zhou Jiatai 的个人主页（<https://zhoujiatai.github.io/>）是一个使用本模板的例子。
 
 ## 贡献
 
@@ -37,7 +37,7 @@ cd ZptLight
 
 ## 作者
 
-* [**周嘉泰**](https://github.com/ZhouJiatai)
+* [**Zhou Jiatai**](https://github.com/ZhouJiatai)
 
 ## 许可证
 
